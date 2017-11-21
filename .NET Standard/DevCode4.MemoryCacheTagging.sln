@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevCode4.MemoryCacheTagging", "DevCode4.MemoryCacheTagging\DevCode4.MemoryCacheTagging.csproj", "{776230CD-C41F-4E80-B7EA-3BCCA07CCF51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevCode4.MemoryCacheTagging.Test", "DevCode4.MemoryCacheTagging.Test\DevCode4.MemoryCacheTagging.Test.csproj", "{F7244409-A03B-441B-9572-07B85DFED4E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DevCode4.MemoryCacheTagging.Test", "DevCode4.MemoryCacheTagging.Test\DevCode4.MemoryCacheTagging.Test.csproj", "{F7244409-A03B-441B-9572-07B85DFED4E9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
